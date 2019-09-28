@@ -20,7 +20,7 @@ public class linuxDemo {
 	
 	
 	public static void main(String[] args) throws Exception {
-		double fs=13;
+		double fs=133;
 
 final ParameterTool params = ParameterTool.fromArgs(args);
 		//获得属性
